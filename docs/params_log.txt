@@ -1,0 +1,9 @@
+Команда: python src/input_handler.py "Hello"
+Вывод:
+Первый переданный аргумент: 'Hello'
+Тип аргумента (в виде строки): str
+---
+Команда: python src/input_handler.py --type string --mode debug
+Вывод:
+Первый переданный аргумент: '--type'
+Тип аргумента (в виде строки): str
