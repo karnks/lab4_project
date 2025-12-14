@@ -17,3 +17,6 @@ def main():
                 print("Ошибка: после --type необходимо указать значение.")
     else:
         print("Аргументы не переданы.")
+
+        print("Аргумент для анализа...") # Версия из feature/params-validation
+>>>>>>> feature/params-validation (Incoming Change)
